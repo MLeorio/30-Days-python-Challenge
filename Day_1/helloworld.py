@@ -1,5 +1,8 @@
 # Day 1 - Hello World Exercise
+
 # Exercice 1
+# Exucter dans la console Python
+
 
 # Exercice 2
 """
