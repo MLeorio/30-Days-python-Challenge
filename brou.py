@@ -1,0 +1,1 @@
+print(len("Coding For All") - 1)

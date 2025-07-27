@@ -1,0 +1,42 @@
+Exercice 3:
+
+1. Déclarez votre âge comme une variable entière
+2. Déclarez votre taille comme une variable flottante
+3. Déclarer une variable qui stocke un nombre complexe
+4. Écrivez un script qui invite l'utilisateur à saisir la base et la hauteur du triangle et à calculer l'aire de ce triangle (aire = 0,5 x b x h).
+5. Écrivez un script qui invite l'utilisateur à saisir les côtés a, b et c du triangle. Calculez le périmètre du triangle (périmètre = a + b + c).
+6. Déterminez la longueur et la largeur d'un rectangle à l'aide de l'invite. Calculez son aire (aire = longueur x largeur) et son périmètre (périmètre = 2 x (longueur + largeur)).
+7. Déterminer le rayon d'un cercle à l'aide de l'invite. Calculer l'aire (aire = pi x r x r) et la circonférence (c = 2 x pi x r) où pi = 3,14.
+8. 
+9. La pente est (m = y₂-y₄/x₂-x₄). Trouvez la pente et la distance euclidienne entre le point (2, 2) et le point (6, 10).
+10. Comparez les pentes des tâches 8 et 9.
+
+11. Calculez la valeur de y (y = x^2 + 6x + 9). Essayez d'utiliser différentes valeurs de x et déterminez à quelle valeur de x y sera égal à 0.
+
+12. Trouvez la longueur de « python » et de « dragon » et faites une fausse comparaison.
+
+13. Utilisez l'opérateur and pour vérifier si « on » est trouvé à la fois dans « python » et « dragon »
+
+14. J'espère que ce cours ne contient pas de jargon. Utilisez l'opérateur in pour vérifier la présence de jargon dans la phrase.
+
+15. Il n'y a pas de « on » dans dragon et python 
+16. Calculez la longueur du texte Python, convertissez la valeur en nombre à virgule flottante et en chaîne.
+
+17. Les nombres pairs sont divisibles par 2 et leur reste est nul. Comment vérifier si un nombre est pair ou non avec Python ?
+
+18. Vérifiez si la division au sol de 7 par 3 est égale à la valeur convertie en entier de 2,7.
+
+19. Vérifiez si le type « 10 » est égal au type « 10 »
+
+20. Vérifiez si int('9.8') est égal à 10
+
+21. Écrire un script invitant l'utilisateur à saisir ses heures et son tarif horaire. Calculer le salaire de la personne.
+
+22. Écrivez un script qui invite l'utilisateur à saisir le nombre d'années. Calculez le nombre de secondes qu'une personne peut vivre. Supposons qu'une personne puisse vivre cent ans.
+
+23. Écrivez un script Python qui affiche le tableau suivant
+1 1 1 1 1 
+2 1 2 4 8 
+3 1 3 9 27 
+4 1 4 16 64 
+5 1 5 25 125
