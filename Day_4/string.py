@@ -135,3 +135,49 @@ chaine_sans_espaces = chaine_espaces.strip()
 print(chaine_sans_espaces)
 
 # 31. Laquelle des variables suivantes renvoie True lorsque nous utilisons la méthode isidentifier() :
+    # 30DaysOfPython 
+    # thirty_days_of_python
+variable1 = "30DaysOfPython"
+variable2 = "thirty_days_of_python"
+print(variable1.isidentifier())  # False, starts with a digit
+print(variable2.isidentifier())  # True, valid identifier
+
+# 32. La liste suivante contient les noms de certaines bibliothèques Python : ['Django','Flask', 'Bottle', 'Pyramid', 'Falcon']. Joignez la liste avec un hachage contenant une chaîne d'espaces.
+
+bibliotheques = ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']
+bibliotheques_chaine = ' '.join(bibliotheques)
+print(bibliotheques_chaine)
+
+# 33. Utilisez la séquence d’échappement de nouvelle ligne pour séparer les phrases suivantes: I am enjoying this challenge. I just wonder what is next.
+print("I am enjoying this challenge.\nI just wonder what is next.")
+
+# 34. Use a tab escape sequence to write the following lines.
+# Name      Age     Country   City 
+# Asabeneh  250     Finland   Helsinki
+print("Name\tAge\tCountry\tCity")
+print("Asabeneh\t250\tFinland\tHelsinki")
+
+# 35. Utilisez la méthode de formatage de chaîne pour afficher les éléments suivants :
+# radius = 10 
+# area = 3.14 * radius ** 2 
+# The area of a circle with radius 10 is 314 meters square. 
+radius = 10
+area = 3.14 * radius ** 2
+print(f"The area of a circle with radius {radius} is {area} meters square.")
+
+
+# 36. Effectuez les opérations suivantes à l’aide des méthodes de formatage de chaîne :
+# 8 + 6 = 14 
+# 8 - 6 = 2 
+# 8 * 6 = 48 
+# 8 / 6 = 1.33 
+# 8 % 6 = 2 
+# 8 // 6 = 1 
+# 8 ** 6 = 262144
+print(f"8 + 6 = {8 + 6}")
+print(f"8 - 6 = {8 - 6}")
+print(f"8 * 6 = {8 * 6}")
+print(f"8 / 6 = {8 / 6:.2f}")
+print(f"8 % 6 = {8 % 6}")
+print(f"8 // 6 = {8 // 6}")
+print(f"8 ** 6 = {8 ** 6}")
